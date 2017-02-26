@@ -36,7 +36,7 @@ void main()
  cprintf("Go!!!");delay(1000);
  clrscr();
 
- track(25);  //Function to display thr track defined after main
+ track(25);  //Function to display thr track defined after main 
  car(33,23,2);//Funtion to display car
 
  do
