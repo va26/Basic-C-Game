@@ -35,7 +35,7 @@ void main()
  cprintf("ARE YOU READY!");delay(1000);
  gotoxy(30,10);
  cprintf("THE RACE BEGINS IN : 3!");delay(500);
- gotoxy(30,10);
+ gotoxy(30,10); 
  cprintf("THE RACE BEGINS IN :   ");delay(500);
  gotoxy(30,10);
  cprintf("THE RACE BEGINS IN : 2!");delay(500);
