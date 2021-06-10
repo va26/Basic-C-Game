@@ -3,7 +3,12 @@
 
 I developed this game as a part of my winter project in class 11th. In this game the user controls his car (green) with the left and right arrow keys and has to dodge the obstacles (opponent cars in blue) which are descending randomly (in two columns) on the screen. This game has several levels and with the increase in each level the speed of the game increases until there is a winner!
 
->_**Refer Screenshots for visual part**_ 
+Screenshots from the gameplay:
+Screenshot 1
+![first_image](https://github.com/va26/Basic-C-Game/blob/master/Screenshot(1).jpg)
+
+Screenshot 2
+![second_image](https://github.com/va26/Basic-C-Game/blob/master/Screenshot(2).jpg)
 
 ## Challenges I faced
 * The biggest challenge was to give a grapical display without using __*Graphics.h*__ library. So I overcame this problem by using the ASCII values then used them creatively to give the shape of a car and the background as the road.
