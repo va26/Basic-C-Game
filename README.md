@@ -5,7 +5,7 @@ I developed this game as a part of my winter project in class 11th. In this game
 
 >_**Refer Screenshots for visual part**_ 
 
-## Challeneges I faced
+## Challenges I faced
 * The biggest challenge was to give a grapical display without using __*Graphics.h*__ library. So I overcame this problem by using the ASCII values then used them creatively to give the shape of a car and the background as the road.
 * The second was to switch between the continuous operation :-
   1. The movement of the obstacles
